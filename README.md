@@ -25,7 +25,7 @@
 ### Professora Orientadora 
 - <a href="https://www.linkedin.com/in/fabiana-martins-de-oliveira-8993b0b2/">Fabiana Martins de Oliveira</a>
 ### Professores Instrutores
-- <a href="">Natalia Kloeckner</a>
+- <a href="https://www.linkedin.com/in/natalia-k-37a62052/">Natalia Kloeckner</a>
 - <a href="">Ana Cristina</a> 
 - <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a> 
 - <a href="https://www.linkedin.com/in/cristiano-benites-687647a8/">Cristiano Benites</a>
