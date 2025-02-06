@@ -11,23 +11,25 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/annycerazi">Anny Jhulia Cerazi</a>
+- <a href="">Bruno Rocha Silva</a>
+- <a href="">Catarina Sayuri Arashiro Braga Felipe</a> 
+- <a href="">Eduardo Duarte</a> 
+- <a href="">João Vitor Furtado de Freitas</a>
+- <a href="">Luigi Junqueira Garotti</a> 
+- <a href="">Paulo Henrique Bueno Fernandes</a>
 
 ## 👩‍🏫 Professores:
-### Orientador(a) 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do orientador</a>
-### Instrutores
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 1</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 2</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 4</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do instrutor 5</a> 
+### Coordenador do Curso
+- <a href="https://www.linkedin.com/in/sergio-venancio-a509b342/">Sérgio Venâncio</a>
+### Professora Orientadora 
+- <a href="https://www.linkedin.com/in/fabiana-martins-de-oliveira-8993b0b2/">Fabiana Martins de Oliveira</a>
+### Professores Instrutores
+- <a href="">Natalia Kloeckner</a>
+- <a href="">Ana Cristina</a> 
+- <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a> 
+- <a href="https://www.linkedin.com/in/cristiano-benites-687647a8/">Cristiano Benites</a>
+- <a href="">Henrique Paiva</a> 
 
 ## 📜 Descrição
 
