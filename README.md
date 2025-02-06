@@ -14,7 +14,7 @@
 - <a href="https://www.linkedin.com/in/annycerazi">Anny Jhulia Cerazi</a>
 - <a href="">Bruno Rocha Silva</a>
 - <a href="">Catarina Sayuri Arashiro Braga Felipe</a> 
-- <a href="">Eduardo Duarte</a> 
+- <a href="">Eduardo Arena Duarte</a> 
 - <a href="">João Vitor Furtado de Freitas</a>
 - <a href="">Luigi Junqueira Garotti</a> 
 - <a href="">Paulo Henrique Bueno Fernandes</a>
